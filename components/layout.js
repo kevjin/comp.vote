@@ -2,6 +2,7 @@ import { useContext } from "react";
 import Head from "next/head"; // Meta
 import Header from "components/header"; // Header component
 import styles from "styles/layout.module.scss"; // Component styles
+import { Embedded } from "containers";
 
 export default function Layout({ children }) {
 

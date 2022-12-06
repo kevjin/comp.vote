@@ -103,7 +103,6 @@ export default function Home({ defaultProposals, defaultPages }) {
       <div className={styles.head}>
         <div>
           {/* Description of voting by signature */}
-          <h1>Vote By Signature</h1>
           <div>
             <p>
               Voting by signature lets you place votes across Compound Governance

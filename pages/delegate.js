@@ -78,7 +78,6 @@ export default function Delegate({
       <div className={styles.head}>
         <div>
           {/* Description of delegating by signature */}
-          <h1>Delegate By Signature</h1>
           <div>
             <p>
               Delegating by signature lets you delegate your COMP to community
